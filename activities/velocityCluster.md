@@ -17,7 +17,7 @@
 ## Image with width 1500:
 
 
-![Image set width 2](img/image.jpg=1000000x1000000)
+![Image set width 2](img/image.jpg=100x)
 
 
 ## Image with width 300 and height 150:
