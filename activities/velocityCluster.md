@@ -26,8 +26,18 @@
 ![Image set width and height 1](img/image.jpg=0300x150)
 
 
-## Image with width 2000 and height 1000:
+## Image with hyperlink
 
 
-![Image set width and height 2](img/image.jpg=2000x1000)
+![Sample image](https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg=10x10
+
+
+## Image with reference
+
+![Image with reference][reference-3=20x20]
+
+
+#References
+
+[reference-3]: https://i.kinja-img.com/gawker-media/image/upload/s--GgpOUVnh--/c_scale,f_auto,fl_progressive,q_80,w_800/riufs7rtpk6okzrqiqmy.jpg
 
